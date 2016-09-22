@@ -1,0 +1,10 @@
+type = "school"
+title = "writing"
+start = "04/22/2000 12:00"
+end = "05/22/2001 12:32"
+
+type = "home"
+title = "reading"
+start = "04/22/2000 14:00"
+end = "05/22/2001 15:30"
+
